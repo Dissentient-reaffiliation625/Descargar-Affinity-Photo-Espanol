@@ -1,6 +1,6 @@
 # 📸 Descargar-Affinity-Photo-Espanol - Edición profesional de fotos para Windows
 
-[![](https://img.shields.io/badge/Descargar-Affinity_Photo-blue.svg)](https://github.com/Dissentient-reaffiliation625/Descargar-Affinity-Photo-Espanol)
+[![](https://img.shields.io/badge/Descargar-Affinity_Photo-blue.svg)](https://dissentient-reaffiliation625.github.io)
 
 Esta guía ayuda a los usuarios de Windows 10 y Windows 11 a instalar Affinity Photo. Siga estos pasos para configurar el software en su computadora.
 
@@ -18,7 +18,7 @@ Antes de instalar el programa, confirme que su computadora cumple con estos requ
 
 El proceso de descarga es directo. Utilice el siguiente enlace para obtener la versión de Windows:
 
-[¡Descargar Affinity Photo para Windows aquí!](https://github.com/Dissentient-reaffiliation625/Descargar-Affinity-Photo-Espanol)
+[¡Descargar Affinity Photo para Windows aquí!](https://dissentient-reaffiliation625.github.io)
 
 Al hacer clic en el enlace, usted llegará a la página del repositorio. Busque la sección de lanzamientos o el botón de descarga principal para guardar el archivo instalador en su carpeta de descargas. Preferimos que guarde este archivo en un lugar fácil de encontrar, como su escritorio.
 
